@@ -1,0 +1,25 @@
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.featureLink {
+  display: block;
+  text-decoration: none;
+}
+
+.featureLink:hover {
+  text-decoration: none;
+}
+
+.featureImg {
+  height: 200px;
+  width: 200px;
+  transition: 0.3s ease transform;
+}
+
+.featureLink:hover .featureImg {
+  transform: scale(1.1);
+}
