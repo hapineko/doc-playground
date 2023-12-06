@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: '今年もクリスマスがやってくる！',
   tagline: '当サイトでクリスマス当日を楽しみに待ちましょう',
-  url: 'https://doc-playground.netlify.app',
+  url: 'https://doc-playground-xmas.netlify.app/',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
 
