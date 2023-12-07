@@ -45,7 +45,7 @@ export default function Home() {
           ねこアイコン素材：
           <a
             href='https://mozneko.boo.jp/'
-            target='blank'
+            target='_blank'
             rel='noopener noreferrer'
           >
             もずねこ

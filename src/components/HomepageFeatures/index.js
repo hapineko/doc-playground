@@ -33,7 +33,7 @@ function Feature({ href, imgSrc, title, description }) {
       <a
         className={styles.featureLink}
         href={href}
-        target='blank'
+        target='_blank'
         rel='noopener noreferrer'
       >
         <p className='text--center'>
